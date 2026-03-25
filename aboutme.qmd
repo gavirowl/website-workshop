@@ -7,7 +7,7 @@
 # and controls page-level settings.
 # ============================================================
 
-title: "About Me"   # ✏️ This becomes the page title shown in the browser tab
+title: "About Me"
 ---
 
 ```{=html}
@@ -39,7 +39,7 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
   ============================================================ -->
 ```
 
-✏️ Write your bio here — who you are, what you study, and what you care about.
+➡️ Hello! My name is Gavin Rowland and I am a 3rd-year Data Science student at UNC-Chapel Hill. I am passionate about using machine learning and data science to optimize algorithms for business operations. During my time at UNC I've completed courses in optimization, machine learning, and data analysis. Outside of class, I enjoy reading, hiking, and camping.
 
 ```{=html}
 <!-- ============================================================
@@ -75,5 +75,5 @@ To view more information about my projects, please visit the [Projects](proj.qmd
 
 **Contact Information:**
 
--   Email: [ ](mailto:youremail@gmail.com)[gavinrow2\@gmail.com](mailto:gavinrow2@gmail.com)
+-   Email: [gavinrow2\@gmail.com](mailto:gavinrow2@gmail.com)
 -   LinkedIn: [Gavin Rowland](https://www.linkedin.com/in/gavin-rowland-3595b1288/)
