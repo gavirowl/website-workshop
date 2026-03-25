@@ -4,14 +4,14 @@
     "href": "proj.html",
     "title": "Projects",
     "section": "",
-    "text": "✏️ A brief intro about your projects goes here."
+    "text": "➡️ Here are a few of my projects from my coursework and personal work."
   },
   {
     "objectID": "aboutme.html",
     "href": "aboutme.html",
     "title": "About Me",
     "section": "",
-    "text": "✏️ Write your bio here — who you are, what you study, and what you care about.\n\n✏️ My Resume\n\nTo view more information about my projects, please visit the Projects tab.\n\nContact Information:\n\nEmail: ✏️ youremail@gmail.com\nLinkedIn: ✏️ Your Name"
+    "text": "➡️ Hello! My name is Gavin Rowland and I am a 3rd-year Data Science student at UNC-Chapel Hill. I am passionate about using machine learning and data science to optimize algorithms for business operations. During my time at UNC I’ve completed courses in optimization, machine learning, and data analysis. Outside of class, I enjoy reading, hiking, and camping.\n\nMy Resume\n\nTo view more information about my projects, please visit the Projects tab.\n\nContact Information:\n\nEmail: gavinrow2@gmail.com\nLinkedIn: Gavin Rowland"
   },
   {
     "objectID": "proj.html#project-title",
@@ -37,8 +37,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "✏️ Your Name",
+    "title": "Gavin Rowland’s Website",
     "section": "",
     "text": "Welcome to my personal website! Here you will find information about me and my work. Feel free to explore using the navigation bar above.\n\nVisit the About Me tab to learn more about my background and how to get in touch.\nVisit the Projects tab to see examples of my work."
+  },
+  {
+    "objectID": "proj.html#analyzing-mac-horvaths-2022-hot-streak",
+    "href": "proj.html#analyzing-mac-horvaths-2022-hot-streak",
+    "title": "Projects",
+    "section": "Analyzing Mac Horvath’s 2022 Hot Streak",
+    "text": "Analyzing Mac Horvath’s 2022 Hot Streak\nCourse: N/A\nDate: Fall 2025\nTags: R Data Analysis Visualization \nIn this project, I use R to explore the 2022 UNC trackman data and answer: what prompted Mac Horvath to go from slump to hot streak? I sought to answer this using data visualization, and t-tests. I found Horvath should continue being patient at the plate and work on his swings against fastballs.\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"Horvath2022turnaround.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n\n⬇ Download PDF"
+  },
+  {
+    "objectID": "proj.html#analyzing-corner-kicks-in-premier-league-matches",
+    "href": "proj.html#analyzing-corner-kicks-in-premier-league-matches",
+    "title": "Projects",
+    "section": "Analyzing Corner Kicks in Premier League Matches",
+    "text": "Analyzing Corner Kicks in Premier League Matches\nCourse: STOR 538\nDate: Fall 2025\nTags: R Statistics ggplot2\nThis project analyzes the effectiveness of corner kicks in the Premier League. We sought to identify trends in the data that answered which factors determined the most dangerous type of corner kick. We found that short corners and corners where the attacking team won initial posession were more dangerous than most others. Our findings were presented to the class and professor at the end of the semester. The data used in this project were collected and recorded by each group member.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"project_report_corners.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
   }
 ]
