@@ -50,7 +50,7 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
   ============================================================ -->
 ```
 
-[✏️ My Resume](example_resume.pdf)
+[My Resume](GavinRResume.pdf)
 
 ```{=html}
 <!-- ============================================================
@@ -64,20 +64,16 @@ To view more information about my projects, please visit the [Projects](proj.qmd
 ```{=html}
 <!-- ============================================================
   CONTACT INFORMATION
-  ✏️ Replace every placeholder in angle brackets <> with your real info
 
   EMAIL:
-    - Replace <youremail> with your email address (appears twice — once as
-      display text, once as the mailto: link)
+    - gavinrow2@gmail.com
 
   LINKEDIN:
-    - Replace <yourname> with how you want your name to appear as link text
-    - Replace <copy link to linkedin> with your full LinkedIn URL
-      Example: https://www.linkedin.com/in/janesmith
+    - https://www.linkedin.com/in/gavin-rowland
   ============================================================ -->
 ```
 
 **Contact Information:**
 
--   Email: [✏️ youremail\@gmail.com](mailto:youremail@gmail.com)
--   LinkedIn: [✏️ ](✏️%20https://www.linkedin.com/in/yourprofile)
+-   Email: [ ](mailto:youremail@gmail.com)[gavinrow2\@gmail.com](mailto:gavinrow2@gmail.com)
+-   LinkedIn: [Gavin Rowland](https://www.linkedin.com/in/gavin-rowland-3595b1288/)
