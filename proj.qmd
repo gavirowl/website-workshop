@@ -70,7 +70,7 @@ In this project, I use R to explore the 2022 UNC trackman data and answer: what 
 
 **Course:** STOR 538\
 **Date:** Fall 2025\
-**Tags:** `R` `Statistics` `ggplot2`
+**Tags:** `R` `Statistics` `ggplot2` `Data Analysis`
 
 This project analyzes the effectiveness of corner kicks in the Premier League. We sought to identify trends in the data that answered which factors determined the most dangerous type of corner kick. We found that short corners and corners where the attacking team won initial posession were more dangerous than most others. Our findings were presented to the class and professor at the end of the semester. The data used in this project were collected and recorded by each group member.
 
